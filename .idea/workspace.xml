@@ -35,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="ToolWindowMessages.ShowToolbar" value="false" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wordnet" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.saveactions" />
   </component>
   <component name="RunDashboard">
@@ -50,13 +50,15 @@
       </list>
     </option>
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+  <component name="RunManager">
+    <configuration name="BaseballElimination" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BaseballElimination" />
+      <module name="Algorithms, Part II" />
+      <option name="PROGRAM_PARAMETERS" value="teams4.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <method v="2" />
+    </configuration>
   </component>
 </project>
